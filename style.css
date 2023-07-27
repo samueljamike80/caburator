@@ -20,6 +20,24 @@
     margin-bottom: 1.5rem;
 }
  }
+ #mincab {
+    height: 200px;
+     width: 200px;
+ }
+ #maxcab {
+    height: 200px;
+     width: 200px;
+ }
+ .centered {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh; /* Adjust as needed to center vertically */
+        }
+ #htuimg {
+     height: 300px;
+     width: 300px;
+ }
  /* faqs */
  #faqs {
      height: 100%;
