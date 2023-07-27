@@ -16,7 +16,9 @@
      margin: 0;
      padding: 0;
      font-family: 'ubuntu', sans-serif;
-
+.contat {
+    margin-bottom: 1.5rem;
+}
  }
  /* faqs */
  #faqs {
