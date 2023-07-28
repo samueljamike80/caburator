@@ -35,7 +35,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh; /* Adjust as needed to center vertically */
+            min-height: 50vh; /* Adjust as needed to center vertically */
         }
  #htuimg {
      height: 300px;
